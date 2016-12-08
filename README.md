@@ -1,2 +1,3 @@
 # hello-world
-Starting hello-world repo
+
+I'd like to learn how to code, and I believe that GitHub would be of great help in that path...
